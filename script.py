@@ -1,4 +1,3 @@
-#Tic-Tac-Toe Game using Python
 import pygame
 import sys
 
